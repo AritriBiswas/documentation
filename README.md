@@ -17,8 +17,8 @@ Next, we install NPM, Node Package Manager by a simple command:
 
 At this point we are ready to initiate our React application. In our project, we have two main directories that is the client and the truffle folder.
 
-1.**Client :** This is where our client side application will reside.
-2.**Truffle :** In this directory the solidity related files are stored.
+1. **Client :** This is where our client side application will reside.
+2. **Truffle :** In this directory the solidity related files are stored.
 So we make sure that our React files are created inside the client directory. (We change the current directory to client)
 Here we type the command for creating the React app.
 
