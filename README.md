@@ -1,24 +1,24 @@
 ### Now it is time that we design the frontend of our blockchain project. For that we choose one of the most popularly used JavaScript framework for building user interfaces, React.
 
 
-#React
+# React
 
-####React is a JavaScript library that eases the designing and building process of the user interface using JavaScript. React is a component based language where the developer writes code for an element of the page (For example, a Nav bar used in this project itself is an element) only once and exports it. 
+#### React is a JavaScript library that eases the designing and building process of the user interface using JavaScript. React is a component based language where the developer writes code for an element of the page (For example, a Nav bar used in this project itself is an element) only once and exports it. 
 
 In the course of developing all the pages required for the website, the developer only needs to import the js folder that contains the element and use it at any required position.
 
-##Getting Started with React
+## Getting Started with React
 
-####We directly jump into creating a react app, for that we need to install node through a simple command:
-
-
-####Next, we install NPM, Node Package Manager by a simple command:
+#### We directly jump into creating a react app, for that we need to install node through a simple command:
 
 
+#### Next, we install NPM, Node Package Manager by a simple command:
 
-####NPM is used to manage dependencies for packages. If you were to unpack a framework and use it outside NPM, you would have to do this every time you want to update the framework. NPM does this for you. You always know what version you're on, and you can limit a dependency to a specific version.
 
-####At this point we are ready to initiate our React application. In our project, we have two main directories that is the client and the truffle folder.
+
+#### NPM is used to manage dependencies for packages. If you were to unpack a framework and use it outside NPM, you would have to do this every time you want to update the framework. NPM does this for you. You always know what version you're on, and you can limit a dependency to a specific version.
+
+#### At this point we are ready to initiate our React application. In our project, we have two main directories that is the client and the truffle folder.
 **Client : ** This is where our client side application will reside.
 ** Truffle : ** This directory where the solidity related files are stored.
 
