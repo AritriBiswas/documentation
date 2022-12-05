@@ -38,7 +38,7 @@ Once node_modules is installed successfully, enter the command
 
 This should start our React app on localhost:3000. We are now ready to start building our own user interface. Make sure the file structure looks somewhat like this.
 
-![](folder structure.png)
+![](folderstructure.png)
 
 
 We now proceed to make the pages for our website. Under **src** directory we make the file structure somewhat like this.
